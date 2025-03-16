@@ -2,7 +2,7 @@
 
 Um sistema robusto para registro e gerenciamento de denúncias públicas, desenvolvido com Next.js, TailwindCSS e uma API RESTful simulada.
 
-![Sistema de Denúncias]
+Sistema de Denúncias
 
 ## 📋 Sobre o Projeto
 
